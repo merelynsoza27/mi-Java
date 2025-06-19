@@ -2,8 +2,8 @@ public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
         String nombre = "Estudiante";
-        int a=5;
-        int b=3;
+        int a=34;
+        int b=14;
         
 
         int suma= a + b;
